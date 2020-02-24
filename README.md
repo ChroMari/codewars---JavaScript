@@ -22,9 +22,8 @@
 │
 ├── 7-kyu/
 │   ├── Binary Addition/
-|   |   ├── readme.md
-│   │   ├── index.js
-│   │   └── test.js
+│   │   ├── ... .txt
+│   │   └── index.js
 │   └── ...
 ```
 **Примечания к структуре:**
