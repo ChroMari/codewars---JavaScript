@@ -1,5 +1,5 @@
 <h1 align="center">Codewars Katas</h1>
-<h6 align="center">Решения с тестами, для каждого kyu решено минимум 100 кат</h6>
+<h6 align="center">Решения для каждого kyu решено минимум 100 кат на языке JavaScript</h6>
 
 ### Перечень терминов
 
